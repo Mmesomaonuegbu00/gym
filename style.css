@@ -1,0 +1,364 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+}
+
+
+
+.sect1 {
+    background: linear-gradient(black, rgb(83, 81, 81));
+}
+
+.sect2 {
+    background-color: rgb(66, 65, 65);
+    margin-top: -2rem;
+}
+
+
+.container1 a {
+    font-weight: bolder;
+}
+
+.container1 .myicon {
+    color: red;
+    transform: rotate(-45deg);
+
+}
+
+.sect1 {
+    margin-top: rem;
+}
+
+.img5 {
+    margin-left: -2rem;
+
+}
+
+.text1 {
+    font-weight: bolder;
+    /* font-size: 2rem; */
+}
+
+.img1 {
+    width: 3rem;
+    height: 2rem;
+    border-radius: 50%;
+    margin-left: -1rem;
+}
+
+.img2 {
+    width: 2rem;
+    height: 2rem;
+    border-radius: 50%;
+    margin-left: -1.1rem;
+}
+
+.img3 {
+    width: 3rem;
+    height: 2rem;
+    border-radius: 50%;
+    margin-left: -1.2rem;
+}
+
+.img4 {
+    width: 2rem;
+    height: 2rem;
+    border-radius: 50%;
+    margin-left: -1.3rem;
+}
+
+.text2 p {
+    font-size: 0.7rem;
+}
+
+.text2 {
+    gap: 1rem;
+    font-weight: bolder;
+}
+
+.img5 {
+    margin-top: -2rem;
+}
+
+.img-text {
+    width: 10rem;
+    margin-top: -6rem;
+    margin-left: 8rem;
+    position: relative;
+    border-radius: 1rem;
+}
+
+.sect1-img {
+    margin-left: 11rem;
+    margin-top: -2.6rem;
+}
+
+.row-sect2 {
+    font-weight: bolder;
+}
+
+.sect3 {
+    background: linear-gradient(rgb(48, 47, 47), rgb(56, 55, 55));
+}
+
+.sect3-img {
+    border-radius: 2rem;
+    height: 23rem;
+    width: 25rem;
+}
+
+.my-icon2 {
+    width: 8rem;
+    border-radius: 1rem;
+    opacity: 0.8;
+    position: relative;
+    top: -8rem;
+    margin-left: 20rem;
+}
+
+.sect3-text1 {
+    font-weight: bolder;
+}
+
+.sect4 {
+    background-color: rgb(66, 65, 65);
+
+}
+
+.sect4-row2 {
+    margin-top: 2rem;
+}
+
+.sect4-text1 {
+    font-weight: bolder;
+}
+
+.sect4-col1 {
+    background-color: rgba(167, 161, 161, 0.5);
+    border-radius: 1rem;
+
+}
+
+.sect4-col2 {
+    background-color: rgba(167, 161, 161, 0.5);
+    border-radius: 1rem;
+
+}
+
+.sect4-col3 {
+    background-color: rgb(224, 122, 6);
+    border-radius: 1rem;
+
+}
+
+.sect4-col4 {
+    background-color: rgba(167, 161, 161, 0.5);
+    border-radius: 1rem;
+
+}
+
+.sect4-row2 {
+    margin-left: -rem;
+}
+
+.sect5 {
+    background: linear-gradient(rgb(48, 47, 47), rgb(56, 55, 55));
+
+}
+
+/* .dot {
+    height: 300px;
+    width: 300px;
+    background-color:orangered;
+    border-radius: 50%;
+    display: inline-block;
+    margin-top: 3rem;
+   
+    
+  
+} */
+/* .sect5-img {
+    margin-top: -7rem;
+    height: 25rem;
+    width: 20rem;
+margin-left: -3rem;
+    
+} */
+.sect6 {
+    background-color: rgb(66, 65, 65);
+
+}
+
+.btn2 {
+    margin-left: -1rem;
+}
+
+.burn {
+    width: 30rem;
+    height: 22rem;
+    margin-left: -3rem;
+}
+
+.plan1 {
+    margin-left: 7rem;
+    margin-top: -2.5rem;
+}
+
+.sect6-col1 {
+    background-color: rgba(167, 161, 161, 0.5);
+    border-radius: 1rem;
+
+
+}
+
+.sect6-col2 {
+    background-color: rgb(224, 122, 6);
+    border-radius: 1rem;
+
+
+}
+
+.sect6-col3 {
+    background-color: rgba(167, 161, 161, 0.5);
+    border-radius: 1rem;
+
+
+}
+
+.sect6-images img {
+    width: 3rem;
+    height: 2rem;
+    border-radius: 50%;
+
+}
+
+.sect6-img2 {
+    margin-left: -2rem;
+}
+
+.sect6-img3 {
+    margin-left: -2rem;
+}
+
+.sect6-img4 {
+    margin-left: -2rem;
+}
+
+.plus {
+    background-color: rgb(247, 63, 63);
+    padding: 0.2rem;
+    border-radius: 50%;
+    width: 2rem;
+    height: 2rem;
+    margin-left: -1.5rem;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.reviews {
+    gap: 0.5rem;
+
+}
+
+.reviews-img {
+    margin-top: -0.8rem;
+}
+
+.reviews i {
+    color: rgb(255, 196, 0);
+    /* background-color: yellow; */
+}
+.sticky-title {
+    line-height: 0.8px;
+    margin-left: 0.5rem;
+}
+.sect6-col4 {
+    background-color: rgba(167, 161, 161, 0.5);
+    border-radius: 1rem;
+
+
+}
+.sect6-col4 i {
+    color: rgb(255, 196, 0); ;
+}
+footer {
+    background:linear-gradient(rgb(48, 47, 47), rgb(56, 55, 55));
+}
+footer a {
+    text-decoration: none;
+    color: white;
+    
+}
+footer li {
+    list-style: none;
+}
+.line {
+    margin-top: 2rem;
+}
+/* .footer-col4  {
+    margin-left: 10rem;
+} */
+
+
+
+@media screen and (max-width: 500px) {
+    body {
+        background-color: red;
+
+    }
+
+    /* .sect1 h3 {
+    font-size: 15px;
+   }
+   .sect1 p {
+    font-size: 12px;
+   } */
+    /* .sect1 .img5 {
+    width: 14rem;
+    height: 12rem;
+    margin-top: -7.5rem;
+    margin-left: 2rem;
+   } */
+    /* .sect1 {
+    height: 32rem;
+  
+
+   } */
+    .sect3-img {
+        width: 10rem;
+        height: 10rem;
+    }
+
+    .burn {
+        width: 13rem;
+        height: 10rem;
+        margin-left: 2rem;
+    }
+    .reviews h4 {
+        margin-left: 6rem;
+        margin-top:-2rem;
+        position: relative;
+    }
+
+    /* .dot {
+    width: 12rem;
+    height: 12rem;
+   }
+   .dot img {
+    width: 13rem;
+    height: 12rem;
+    margin-top: -7px;
+    margin-left: -3rem;
+   } */
+    /* .sect3-text {
+
+   }
+   .my-icon2 {
+    margin-left: 6rem;
+    margin-top: 1rem;
+    
+   }/*
+   .
+   
+    
+}
